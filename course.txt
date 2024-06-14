@@ -1,0 +1,8 @@
+1000,History,2,1,1
+1001,Structured Programming,3,1,1
+1002,Structured Programming Lab,1.5,1,1
+1003,English,2,1,1
+1004,Discrete Mathematics,3,1,1
+2000,Structured Programming II Lab,3,1,2
+2001,Calculus,3,1,2
+2002,Digital Logic Design,3,1,3

@@ -1,0 +1,6 @@
+210041202,Tanjeeb Meheran Rohan,Bashabo,CSE
+210041201,Sabrina Jahan Meem,Bashabo,CSE
+210041204,Aimaan Ahmed,Bashundhara,CSE
+210041205,Fahim Rahman,Sirajganj,CSE
+210021263,Ashrafuzzaman Ayon,Moddho Badda,CEE
+210041206,Afra Anika,Uttara,EEE
