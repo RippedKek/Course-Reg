@@ -1,6 +1,8 @@
-210041202,Tanjeeb Meheran Rohan,Bashabo,CSE
-210041201,Sabrina Jahan Meem,Bashabo,CSE
-210041204,Aimaan Ahmed,Bashundhara,CSE
+210041201,Shahir Awlad,Dhaka,CSE
+210041202,Tanjeeb Meheran Rohan,Dhaka,CSE
+210041204,Aimaan Ahmed,Dhaka,CSE
 210041205,Fahim Rahman,Sirajganj,CSE
-210021263,Ashrafuzzaman Ayon,Moddho Badda,CEE
-210041206,Afra Anika,Uttara,EEE
+210021263,Ashrafuzzaman Ayon,Dhaka,CEE
+210041206,Afra Anika,Dhaka,CSE
+210041216,Nabila Newaz,Dhaka,CSE
+210041241,Masnun Nuha Chowdhury,Dhaka,CSE
